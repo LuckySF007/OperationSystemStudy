@@ -99,5 +99,6 @@ SSAFY 7th 운영체제 스터디
     <td align="center"><a href="https://github.com/choijoohee213"><img src="https://avatars.githubusercontent.com/u/60915285?s=400&u=81a3a3b178d0b215fd7a2c72bcf2d1834cb815e9&v=4" width="100px;" alt=""/><br /><sub><b>choijoohee213</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/younghwani"><img src="https://avatars.githubusercontent.com/u/75962307?v=4" width="100px;" alt=""/><br /><sub><b>younghwani</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Qulip"><img src="https://avatars.githubusercontent.com/u/77991314?v=4" width="100px;" alt=""/><br /><sub><b>Qulip</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/platycodonv"><img src="https://avatars.githubusercontent.com/u/93230885?v=4" width="100px;" alt=""/><br /><sub><b>platycodonv</b></sub></a><br /></td>
   </tr>
 </table>
