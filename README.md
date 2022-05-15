@@ -21,8 +21,8 @@ SSAFY 7th 운영체제 스터디
 | 05/10 | 2장.운영체제 개요 - 02          | [🐤](https://bit.ly/3kXr6HX) | [🌊](https://han.gl/wnDwN) |  [🙋‍♀️](https://han.gl/UGJHR)  |🥇|
 | 05/11 | 3장.컴퓨터시스템의 구조 - 01          | [🐌](https://bit.ly/3kXr6HX) |  |  [🧜‍](https://han.gl/XKNKW)  |  |
 | 05/11 | 3장.컴퓨터시스템의 구조 - 02          | [🌳](https://bit.ly/3stTJRi) |  |  [📚](https://han.gl/XKNKW) |  |
-| 05/12 | 3장.컴퓨터시스템의 구조 - 03          | [🎒](https://bit.ly/3MbcvEH) | []() | []() | []() |
-| 05/13 | 3장.컴퓨터시스템의 구조 - 04          | []() | []() | []() | []() |
+| 05/12 | 3장.컴퓨터시스템의 구조 - 03          | [🎒](https://bit.ly/3MbcvEH) | []() | [🐣](https://han.gl/FafHM) | []() |
+| 05/13 | 3장.컴퓨터시스템의 구조 - 04          | []() | []() | [🚗](https://han.gl/NKahV) | []() |
 
 <br>
 
