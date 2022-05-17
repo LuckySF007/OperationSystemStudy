@@ -24,7 +24,7 @@ SSAFY 7th 운영체제 스터디
 | 05/12 | 3장.컴퓨터시스템의 구조 - 03 | [🎒](https://bit.ly/3MbcvEH) | []() | [🐣](https://han.gl/FafHM) |😎|
 | 05/13 | 3장.컴퓨터시스템의 구조 - 04 | [⚽️](https://bit.ly/39nujhs) | []() | [🚗](https://han.gl/NKahV) |🍥|
 | 05/16 | 5장.프로세스 관리 - 01 | [🏀](https://bit.ly/3whxjVL) | []() | [💛](https://han.gl/SlPNk) | []() |
-| 05/17 | 5장.프로세스 관리 - 02 | []() | []() | []() | []() |
+| 05/17 | 5장.프로세스 관리 - 02 | [⚾️](https://bit.ly/3wwT2YB) | []() | []() | []() |
 <!-- | Date | N장.Title - Sub-title | []() | []() | []() | []() | -->
 <br>
 
