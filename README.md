@@ -26,9 +26,9 @@ SSAFY 7th 운영체제 스터디
 | 05/16 | 5장.프로세스 관리 - 01 | [🏀](https://bit.ly/3whxjVL) | [🌪](https://han.gl/MkzVN) | [💛](https://han.gl/SlPNk) | []() |
 | 05/17 | 5장.프로세스 관리 - 02 | [⚾️](https://bit.ly/3wwT2YB) | []() | [🧸](https://han.gl/GARHT) | []() |
 | 05/18 | 5장.프로세스 관리 - 03 | [🎾](https://bit.ly/3Lj1L63) | []() | [🐹](https://han.gl/SPVgH) | []() |
-| 05/31 | 5장.프로세스 관리 - 04 | []() | []() | []() | []() |
-<!-- | Date | N장.Title - Subtitle | []() | []() | []() | []() | -->
-<br>
+| 05/31 | 5장.프로세스 관리 - 04 | [🍯](https://bit.ly/3wZHLjD) | []() | []() | []() |
+|<!-- | Date | N장.Title - Subtitle | []() | []() | []() |
+|<br>||||||
 
 <details>
   <summary><h2>📚 교재 목차</h2></summary>
