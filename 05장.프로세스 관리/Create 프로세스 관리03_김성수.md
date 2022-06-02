@@ -25,5 +25,5 @@
   - 시스템이 여러가지 이유(예. 메모리에 너무 많은 프로세스가 올라와있을 때)로 인해 프로세스 중단
 
 #### Blocked vs Suspended
-Blocked : 프로세스가 실행중인 상태. 자신이 요청한 event가 만족되면 Ready 상태로 복귀
-Suspended : 프로세스가 정지된 상태. 외부에서 resume해 주어야 Active
+- Blocked : 프로세스가 실행중인 상태. 자신이 요청한 event가 만족되면 Ready 상태로 복귀
+- Suspended : 프로세스가 정지된 상태. 외부에서 resume해 주어야 Active
