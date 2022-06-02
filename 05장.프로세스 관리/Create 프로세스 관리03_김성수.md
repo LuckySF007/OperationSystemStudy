@@ -5,7 +5,7 @@
   - 시작 프로세스 중 어떤 것들을 ready queue에 올릴지 결정(New State -> Ready State로 변할 때 admit)
   - 프로세스를 Memory(및 각종자원 할당) 에 주는 문제
   - degree of Multiprogramming을 제어(Memory에 올라가 있는 프로그램 수)
-  - Time sharing system에는 보통 장기 스케줄러가 없음(현대의 대부분의 OS가 이에 해당 대신 무조건 Ready 상태로 보냄)
+  - Time sharing system에는 보통 장기 스케줄러가 없음(현대의 대부분의 OS가 이에 해당 // 대신 무조건 Ready 상태로 보냄)
 
 - Short-tem scheduler(단기 스케줄러 or CPU scheduler)
   - 어떤 프로세스를 다음번에 running 시킬지 결정
