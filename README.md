@@ -1,4 +1,4 @@
-# ✏️ OperationSystemStudy
+# ✏️ OperatingSystemStudy
 SSAFY 7th 운영체제 스터디
 
 <br>
@@ -28,6 +28,7 @@ SSAFY 7th 운영체제 스터디
 | 05/18 | 5장.프로세스 관리 - 03 | [🎾](https://bit.ly/3Lj1L63) | [🎈](https://han.gl/cBPHN) | [🐹](https://han.gl/SPVgH) | 🎨 |
 | 05/31 | 5장.프로세스 관리 - 04 | [🍯](https://bit.ly/3wZHLjD) | []() | [🎉](https://han.gl/kUThy) | 💣 |
 | 06/02 | 5장.프로세스 관리 - 05 | [🍿](https://bit.ly/3tegOYr) | []() | []() | []() |
+| 06/03 | 6장.CPU 스케줄링 - 01 | []() | []() | []() | []() |
 
 <!-- | Date | N장.Title - Subtitle | []() | []() | []() | -->
 
