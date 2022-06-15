@@ -1,4 +1,4 @@
-# ✏️ OperationSystemStudy
+# ✏️ OperatingSystemStudy
 SSAFY 7th 운영체제 스터디
 
 <br>
@@ -11,7 +11,7 @@ SSAFY 7th 운영체제 스터디
 
 
 <br>
-<!--URL 짧게 변환 https://han.gl/ -->
+<!--URL 짧게 변환 httphttps://han.gl/SlPNks://han.gl/ -->
 
 ## 📗 Study
 
@@ -19,14 +19,20 @@ SSAFY 7th 운영체제 스터디
 | :---- | ------------------------ | :----: | :----: | :----: | :----: |
 | 05/09 | 2장.운영체제 개요 - 01 | [1️⃣](https://bit.ly/3MYdTL5) | [⚡](https://han.gl/gCGxo) |  [😎 ](https://han.gl/lLzNB) |🧡|
 | 05/10 | 2장.운영체제 개요 - 02 | [🐤](https://bit.ly/3kXr6HX) | [🌊](https://han.gl/wnDwN) |  [🙋‍♀️](https://han.gl/UGJHR)  |🥇|
-| 05/11 | 3장.컴퓨터시스템의 구조 - 01 | [🐌](https://bit.ly/3kXr6HX) |  |  [🧜‍](https://han.gl/XKNKW)  |  |
-| 05/11 | 3장.컴퓨터시스템의 구조 - 02 | [🌳](https://bit.ly/3stTJRi) |  |  [📚](https://han.gl/XKNKW) |  |
-| 05/12 | 3장.컴퓨터시스템의 구조 - 03 | [🎒](https://bit.ly/3MbcvEH) | []() | [🐣](https://han.gl/FafHM) | []() |
-| 05/13 | 3장.컴퓨터시스템의 구조 - 04 | [⚽️](https://bit.ly/39nujhs) | []() | [🚗](https://han.gl/NKahV) | []() |
-| 05/16 | 5장.프로세스 관리 - 01 | [🏀](https://bit.ly/3whxjVL) | []() | []() | []() |
-| 05/17 | 5장.프로세스 관리 - 02 | []() | []() | []() | []() |
-<!-- | Date | N장.Title - Sub-title | []() | []() | []() | []() | -->
-<br>
+| 05/11 | 3장.컴퓨터시스템의 구조 - 01 | [🐌](https://bit.ly/3kXr6HX) | [💦](https://han.gl/BMKSb) |  [🧜‍](https://han.gl/XKNKW)  |🎶|
+| 05/11 | 3장.컴퓨터시스템의 구조 - 02 | [🌳](https://bit.ly/3stTJRi) | [🔰](https://han.gl/BMKSb) |  [📚](https://han.gl/XKNKW) |😜|
+| 05/12 | 3장.컴퓨터시스템의 구조 - 03 | [🎒](https://bit.ly/3MbcvEH) | [🛸](https://han.gl/XuGnl) | [🐣](https://han.gl/FafHM) |😎|
+| 05/13 | 3장.컴퓨터시스템의 구조 - 04 | [⚽️](https://bit.ly/39nujhs) | [🛹](https://han.gl/ECFVs) | [🚗](https://han.gl/NKahV) |🍥|
+| 05/16 | 5장.프로세스 관리 - 01 | [🏀](https://bit.ly/3whxjVL) | [🌪](https://han.gl/MkzVN) | [💛](https://han.gl/SlPNk) | 🏆 |
+| 05/17 | 5장.프로세스 관리 - 02 | [⚾️](https://bit.ly/3wwT2YB) | [🙌](https://han.gl/aNser) | [🧸](https://han.gl/GARHT) | 🎯 |
+| 05/18 | 5장.프로세스 관리 - 03 | [🎾](https://bit.ly/3Lj1L63) | [🎈](https://han.gl/cBPHN) | [🐹](https://han.gl/SPVgH) | 🎨 |
+| 05/31 | 5장.프로세스 관리 - 04 | [🍯](https://bit.ly/3wZHLjD) | []() | [🎉](https://han.gl/kUThy) | 💣 |
+| 06/02 | 5장.프로세스 관리 - 05 | [🍿](https://bit.ly/3tegOYr) | []() | [🔥](https://han.gl/VBdEC) | []() |
+| 06/03 | 5장.프로세스 관리 - 06 | [🧢](https://bit.ly/39qL3Vw) | []() | [💻](https://han.gl/VBdEC) | []() |
+| 06/13 | 6장.CPU 스케줄링 - 01 | [🍘](https://bit.ly/3NMLiZP) | []() | [🐰](https://han.gl/llFJG) |  |
+| 06/14 | 6장.CPU 스케줄링 - 02 | []() | []() | [🦄](https://han.gl/UASLG) |  |
+
+<!-- | Date | N장.Title - Subtitle | []() | []() | []() | -->
 
 <details>
   <summary><h2>📚 교재 목차</h2></summary>
