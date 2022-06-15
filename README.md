@@ -31,6 +31,7 @@ SSAFY 7th 운영체제 스터디
 | 06/03 | 5장.프로세스 관리 - 06 | [🧢](https://bit.ly/39qL3Vw) | []() | [💻](https://han.gl/VBdEC) | 💘 |
 | 06/13 | 6장.CPU 스케줄링 - 01 | [🍘](https://bit.ly/3NMLiZP) | []() | [🐰](https://han.gl/llFJG) |💫|
 | 06/14 | 6장.CPU 스케줄링 - 02 | []() | []() | [🦄](https://han.gl/UASLG) |  |
+| 06/15 | 6장.CPU 스케줄링 - 03 | []() | []() | []() |  |
 
 <!-- | Date | N장.Title - Subtitle | []() | []() | []() | -->
 
