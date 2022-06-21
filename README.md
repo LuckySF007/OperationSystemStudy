@@ -29,7 +29,7 @@ SSAFY 7th 운영체제 스터디
 | 05/31 | 5장.프로세스 관리 - 04 | [🍯](https://bit.ly/3wZHLjD) | [🎧](https://han.gl/nJAsQ) | [🎉](https://han.gl/kUThy) | 💣 |
 | 06/02 | 5장.프로세스 관리 - 05 | [🍿](https://bit.ly/3tegOYr) | [🎳](https://han.gl/qeaYI) | [🔥](https://han.gl/VBdEC) | 🎎 |
 | 06/03 | 5장.프로세스 관리 - 06 | [🧢](https://bit.ly/39qL3Vw) | [🎮](https://han.gl/Wyebu) | [💻](https://han.gl/VBdEC) | 💘 |
-| 06/13 | 6장.CPU 스케줄링 - 01 | [🍘](https://bit.ly/3NMLiZP) | []() | [🐰](https://han.gl/llFJG) |💫|
+| 06/13 | 6장.CPU 스케줄링 - 01 | [🍘](https://bit.ly/3NMLiZP) | [📏](https://han.gl/xDODt) | [🐰](https://han.gl/llFJG) |💫|
 | 06/14 | 6장.CPU 스케줄링 - 02 | [🥗](https://bit.ly/3b475xO) | []() | [🦄](https://han.gl/UASLG) |  |
 | 06/15 | 6장.CPU 스케줄링 - 03 | [🐒](https://bit.ly/3b475xO) | []() | []() |  |
 | 06/16 | 병행 제어 - 01 | []() | []() | []() |  |
