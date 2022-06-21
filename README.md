@@ -32,6 +32,8 @@ SSAFY 7th 운영체제 스터디
 | 06/13 | 6장.CPU 스케줄링 - 01 | [🍘](https://bit.ly/3NMLiZP) | []() | [🐰](https://han.gl/llFJG) |💫|
 | 06/14 | 6장.CPU 스케줄링 - 02 | [🥗](https://bit.ly/3b475xO) | []() | [🦄](https://han.gl/UASLG) |  |
 | 06/15 | 6장.CPU 스케줄링 - 03 | [🐒](https://bit.ly/3b475xO) | []() | []() |  |
+| 06/16 | 병행 제어 - 01 | []() | []() | []() |  |
+
 
 <!-- | Date | N장.Title - Subtitle | []() | []() | []() | -->
 
