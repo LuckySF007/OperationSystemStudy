@@ -26,11 +26,20 @@ SSAFY 7th 운영체제 스터디
 | 05/16 | 5장.프로세스 관리 - 01 | [🏀](https://bit.ly/3whxjVL) | [🌪](https://han.gl/MkzVN) | [💛](https://han.gl/SlPNk) | 🏆 |
 | 05/17 | 5장.프로세스 관리 - 02 | [⚾️](https://bit.ly/3wwT2YB) | [🙌](https://han.gl/aNser) | [🧸](https://han.gl/GARHT) | 🎯 |
 | 05/18 | 5장.프로세스 관리 - 03 | [🎾](https://bit.ly/3Lj1L63) | [🎈](https://han.gl/cBPHN) | [🐹](https://han.gl/SPVgH) | 🎨 |
-| 05/31 | 5장.프로세스 관리 - 04 | [🍯](https://bit.ly/3wZHLjD) | []() | [🎉](https://han.gl/kUThy) | 💣 |
-| 06/02 | 5장.프로세스 관리 - 05 | [🍿](https://bit.ly/3tegOYr) | []() | [🔥](https://han.gl/VBdEC) | 🎎 |
-| 06/03 | 5장.프로세스 관리 - 06 | [🧢](https://bit.ly/39qL3Vw) | []() | [💻](https://han.gl/VBdEC) | 💘 |
-| 06/13 | 6장.CPU 스케줄링 - 01 | [🍘](https://bit.ly/3NMLiZP) | []() | [🐰](https://han.gl/llFJG) |  |
-| 06/14 | 6장.CPU 스케줄링 - 02 | []() | []() | [🦄](https://han.gl/UASLG) |  |
+| 05/31 | 5장.프로세스 관리 - 04 | [🍯](https://bit.ly/3wZHLjD) | [🎧](https://han.gl/nJAsQ) | [🎉](https://han.gl/kUThy) | 💣 |
+| 06/02 | 5장.프로세스 관리 - 05 | [🍿](https://bit.ly/3tegOYr) | [🎳](https://han.gl/qeaYI) | [🔥](https://han.gl/VBdEC) | 🎎 |
+| 06/03 | 5장.프로세스 관리 - 06 | [🧢](https://bit.ly/39qL3Vw) | [🎮](https://han.gl/Wyebu) | [💻](https://han.gl/VBdEC) | 💘 |
+| 06/13 | 6장.CPU 스케줄링 - 01 | [🍘](https://bit.ly/3NMLiZP) | [📏](https://han.gl/xDODt) | [🐰](https://han.gl/llFJG) |💫|
+| 06/14 | 6장.CPU 스케줄링 - 02 | [🥗](https://bit.ly/3b475xO) | [⌚](https://han.gl/bCSlR) | [🦄](https://han.gl/UASLG) |  |
+| 06/15 | 6장.CPU 스케줄링 - 03 | [🐒](https://bit.ly/3b475xO) | [🍮](https://han.gl/PMsTG) | []() |  |
+| 06/16 | 병행 제어 - 01 | [🙃](https://bit.ly/3A7xPI6) | []() | []() |  |
+| 06/17 | 병행 제어 - 02 | [🐤](https://bit.ly/3A4lzIl) | []() | []() |  |
+| 06/20 | 병행 제어 - 03 | [🐣](https://bit.ly/3HP52Kk) | []() | []() |  |
+| 06/21 | 병행 제어 - 04 | [🐥](https://bit.ly/3HU7AXm) | []() | []() |  |
+| 06/22 | 병행 제어 - 05 | [🐔](https://bit.ly/3HQXbM9) | []() | []() |  |
+| 06/23 | 병행 제어 - 06 | []() | []() | []() |  |
+| 06/24 | 데드락 - 01 | []() | []() | []() |  |
+
 
 <!-- | Date | N장.Title - Subtitle | []() | []() | []() | -->
 
