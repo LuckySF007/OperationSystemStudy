@@ -31,12 +31,12 @@ SSAFY 7th 운영체제 스터디
 | 06/03 | 5장.프로세스 관리 - 06 | [🧢](https://bit.ly/39qL3Vw) | [🎮](https://han.gl/Wyebu) | [💻](https://han.gl/VBdEC) | 💘 |
 | 06/13 | 6장.CPU 스케줄링 - 01 | [🍘](https://bit.ly/3NMLiZP) | [📏](https://han.gl/xDODt) | [🐰](https://han.gl/llFJG) |💫|
 | 06/14 | 6장.CPU 스케줄링 - 02 | [🥗](https://bit.ly/39VEOt6) | [⌚](https://han.gl/bCSlR) | [🦄](https://han.gl/UASLG) | 🧵 |
-| 06/15 | 6장.CPU 스케줄링 - 03 | [🐒](https://bit.ly/39VEOt6) | [🍮](https://han.gl/PMsTG) | []() | 🎩  |
-| 06/16 | 6장.CPU 스케줄링 - 04 | [🙃](https://bit.ly/3u4tT74) | [💩]() | []() | 🔊 |
-| 06/17 | 병행 제어 - 01 | [🐤](https://bit.ly/3u2pTEa) | [💩]() | []() | 🎅 |
-| 06/20 | 병행 제어 - 02 | [🐣](https://bit.ly/3ymXMSA) | [💩]() | []() | 🍭 |
-| 06/21 | 병행 제어 - 03 | [🐥](https://bit.ly/3Ni0OvH) | [💩]() | []() | 🥗 |
-| 06/22 | 병행 제어 - 04 | [🐔](https://bit.ly/3Nmpcwm) | [💩]() | []() | 👻 |
+| 06/15 | 6장.CPU 스케줄링 - 03 | [🐒](https://bit.ly/39VEOt6) | [🍮](https://han.gl/PMsTG) | [🐌](https://han.gl/vqdYZ) | 🎩  |
+| 06/16 | 6장.CPU 스케줄링 - 04 | [🙃](https://bit.ly/3u4tT74) | [💩]() | [🍀](https://han.gl/AeZRb) | 🔊 |
+| 06/17 | 병행 제어 - 01 | [🐤](https://bit.ly/3u2pTEa) | [💩]() | [🌝](https://han.gl/FlyTY) | 🎅 |
+| 06/20 | 병행 제어 - 02 | [🐣](https://bit.ly/3ymXMSA) | [💩]() | [🌈](https://han.gl/FtdTc) | 🍭 |
+| 06/21 | 병행 제어 - 03 | [🐥](https://bit.ly/3Ni0OvH) | [💩]() | [🍦](https://han.gl/CjRIn) | 🥗 |
+| 06/22 | 병행 제어 - 04 | [🐔](https://bit.ly/3Nmpcwm) | [💩]() | [🍮](https://han.gl/PtjNH) | 👻 |
 | JPA 스터디 후 재개 | 데드락 - 01 | []() | []() | []() |  |
 
 
