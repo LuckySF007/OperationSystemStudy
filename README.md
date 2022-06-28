@@ -11,7 +11,7 @@ SSAFY 7th 운영체제 스터디
 
 
 <br>
-<!--URL 짧게 변환 httphttps://han.gl/SlPNks://han.gl/ -->
+<!--URL 짧게 변환 https://han.gl/ -->
 
 ## 📗 Study
 
@@ -32,9 +32,9 @@ SSAFY 7th 운영체제 스터디
 | 06/13 | 6장.CPU 스케줄링 - 01 | [🍘](https://bit.ly/3NMLiZP) | [📏](https://han.gl/xDODt) | [🐰](https://han.gl/llFJG) |💫|
 | 06/14 | 6장.CPU 스케줄링 - 02 | [🥗](https://bit.ly/39VEOt6) | [⌚](https://han.gl/bCSlR) | [🦄](https://han.gl/UASLG) | 🧵 |
 | 06/15 | 6장.CPU 스케줄링 - 03 | [🐒](https://bit.ly/39VEOt6) | [🍮](https://han.gl/PMsTG) | [🐌](https://han.gl/vqdYZ) | 🎩  |
-| 06/16 | 6장.CPU 스케줄링 - 04 | [🙃](https://bit.ly/3u4tT74) | [💩]() | [🍀](https://han.gl/AeZRb) | 🔊 |
-| 06/17 | 병행 제어 - 01 | [🐤](https://bit.ly/3u2pTEa) | [💩]() | [🌝](https://han.gl/FlyTY) | 🎅 |
-| 06/20 | 병행 제어 - 02 | [🐣](https://bit.ly/3ymXMSA) | [💩]() | [🌈](https://han.gl/FtdTc) | 🍭 |
+| 06/16 | 6장.CPU 스케줄링 - 04 | [🙃](https://bit.ly/3u4tT74) | [🚲](https://han.gl/GMnzj) | [🍀](https://han.gl/AeZRb) | 🔊 |
+| 06/17 | 병행 제어 - 01 | [🐤](https://bit.ly/3u2pTEa) | [🤠](https://han.gl/mfvae) | [🌝](https://han.gl/FlyTY) | 🎅 |
+| 06/20 | 병행 제어 - 02 | [🐣](https://bit.ly/3ymXMSA) | [🥵](https://han.gl/CSSXo) | [🌈](https://han.gl/FtdTc) | 🍭 |
 | 06/21 | 병행 제어 - 03 | [🐥](https://bit.ly/3Ni0OvH) | [💩]() | [🍦](https://han.gl/CjRIn) | 🥗 |
 | 06/22 | 병행 제어 - 04 | [🐔](https://bit.ly/3Nmpcwm) | [💩]() | [🍮](https://han.gl/PtjNH) | 👻 |
 | JPA 스터디 후 재개 | 데드락 - 01 | []() | []() | []() |  |
